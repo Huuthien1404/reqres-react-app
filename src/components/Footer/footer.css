@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+    font-size: 1rem;
+    border: 1px solid #e3e3e3;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: #a4a4a4;
+    column-gap: 5px;
+    user-select: none;
+}
